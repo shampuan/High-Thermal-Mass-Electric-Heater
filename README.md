@@ -21,6 +21,12 @@ This notice establishes clear authorial intent regarding licensing from the firs
 
 # High Thermal Mass Electric Heater – Concept Design
 
+<img width="600" height="457" alt="Soba-1-kumlu ve demirli" src="https://github.com/user-attachments/assets/aee7ada0-70fd-4f1d-9973-08d69b5651ea" />
+
+
+<img width="600" height="457" alt="Soba-2-kumsuz ve demirsiz" src="https://github.com/user-attachments/assets/210623be-a0b0-411e-8a23-044e679527d5" />
+
+
 This repository contains an early-stage **conceptual design** for a high thermal mass electric space heater.
 
 The purpose of this project is to explore alternative electric heater architectures that prioritize:
