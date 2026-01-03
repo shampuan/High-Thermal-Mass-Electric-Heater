@@ -1,0 +1,34 @@
+EN
+
+EN
+
+This stove works as follows:
+
+The stove has a sheet metal body, like typical wood-burning stoves, and is coated with fireproof paint. Inside the body is a cylindrical firebrick. The firebrick has grooves around it to accommodate a heating element. The heating element wire is wound around these grooves.
+
+The cavity in the center of the firebrick lifts the heated air upwards, creating a slight heat jet. These jets reach the secondary firebrick at the top of the cylinder. The secondary firebrick also has a heating element, and its purpose is to heat the cast iron lid at the very top. The cast iron lid has beveled holes around its perimeter. The jet of hot air coming from the center of the tubular cylindrical firebrick exits the stove through these holes.
+
+There are two stove concepts:
+
+In the first, a mixture of sand and iron powder is trapped inside the firebrick body. This makes the stove a heat battery. However, due to its drawbacks, the second concept was considered.
+
+The second concept features a firebrick designed like a pipe, without a mixture of sand and iron powder. In any case, heat will effectively warm the environment through thermal radiation.
+
+The stove should have a total power of 2000 Watts. It should also have a tilt safety feature and thermostat for heat control.
+
+
+TR
+
+Bu soba şöyle çalışır. 
+
+Soba, tipik odun sobalarında olduğu gibi sac gövdeye sahiptir ve yanmaz boya ile kaplıdır. Gövde içerisinde silindirik bir ateş tuğlası vardır. Ateş tuğlasının etrafı rezistans sarabilmek için yivlere sahiptir. Rezistans teli bu yivlere sarılır. 
+
+Ateş tuğlasının ortasındaki boşluk, ısınan havayı yukarı kaldırır ve hafif bir ısı jeti oluşturur. Bu jetler, silindirin üstündeki ikincil ateş tuğlasına ulaşır. İkincil ateş tuğasında da bir rezistans vardır ve amacı, en üstteki döküm kapağı ısıtmaktır. Döküm kapağın etrafında dışarıya doğru pahlanmış delikler bulunur. Boru şeklindeki silindirik ateş tuğlasının ortasından gelen sıcak hava jeti, bu deliklerden sobayı terk eder. 
+
+İki soba konsepti vardır: 
+
+Birincisinde, ateş tuğlasının gövdesi içine hapsedilmiş kum ve demir tozu karışımı vardır. Bu, sobayı bir ısı bataryası haline getirir. Ancak sakıncaları nedeniyle ikinci konsept düşünülmüştür.
+
+İkinci konseptte, kum ve demir tozu karışımı olmayan, sadece boru gibi dizayn edilmiş bir ateş tuğlası vardır. Her halükarda ısı, termal ışıma yöntemiyle ortamı etkili bir şekilde ısıtacaktır. 
+
+Sobanın toplam gücü 2000Watt olmalıdır. Ayrıca devrilme emniyeti ile termostat ile ısı kontrolü sağlanmalıdır. 
